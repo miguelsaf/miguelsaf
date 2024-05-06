@@ -5,7 +5,7 @@ I am graduated in Software Enginnering, I have a master degree in telecomunicati
 1 - Modeling and Analysis of 5G Full Duplex Wireless Radios. https://www.iaria.org/conferences2018/awardsICN18/icn2018_a1.pdf <br>
 2 - Performance Analysis of Full Duplex Wireless Multi-hop Networks. https://link.springer.com/chapter/10.1007/978-3-030-25748-4_30
 
-I also have the following certifications: 
+I also have the following certifications: <br>
 1 - PSPO1: Professional Scrum Product Owner 1, By Scrum.org https://www.scrum.org/certificates/696924 <br>
 2 - PSM1: Professional Scrum Master 1, By Scrum.org https://www.scrum.org/certificates/674254 <br>
 3 - OCA-JP7: Oracle Certified Associate Java SE 7 Programmer. <br>
