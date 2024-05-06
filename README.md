@@ -1,4 +1,4 @@
-<h2 style="text-align:center"> Welcome, I am Miguel Francisco 👋 </h2>
+<p style="text-align:center"> Welcome, I am Miguel Francisco 👋 </p>
 "Be the best you can be, learn and grow", this is my way of life.
 
 I have more than 10 years of working experience in companies like TisTech, Inatel (National Institute of Telecomunications of Brasil), CNTI (National Center of Information Technologies of Angola), using technologies like Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on. <br>
