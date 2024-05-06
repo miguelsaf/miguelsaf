@@ -15,12 +15,12 @@ I also have some certifications: <br>
 
 I also have list of courses done in **Coursera** https://www.coursera.org/, **Cesar** https://cesar.school/ and other places, all this serving the purpose of "learn and grow". <br>
 
-###My main focus right now 2024 is **backend development** and I am doing the backend bootcamp with BloomTech, and I am learning a lot of new things like:
+## My main focus right now 2024 is BACKEND DEVELOPMENT, this is why I am doing the backend bootcamp with BloomTech, and learning a lot of new things like:
 - AWS Lambda.
 - AWS DynamoDB.
 - AWS API Gateway, Swagger, RapiDoc.
 - Depende Injection, Dagger, Spring.
-- Tests, Junit, Mock
+- Tests, Junit, Mock.
 
 <!--
 **miguelsaf/miguelsaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
