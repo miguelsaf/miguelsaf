@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome, I am Miguel Francisco 👋 </h2>
-<p align="center">"<em>"Be the best you can be, learn and grow</em>", this is my way of life.</p>
+<p align="center">"<em>Be the best you can be, learn and grow</em>", this is my way of life.</p>
 
 <p align="center"> I have more than 10 years of working experience in companies like TisTech, Inatel (National Institute of Telecomunications of Brasil), CNTI (National Center of Information Technologies of Angola), using technologies like Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on. <br> </p>
 
