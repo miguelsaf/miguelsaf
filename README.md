@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome, I am Miguel Francisco 👋 </h2>
-<p align="center">"*Be the best you can be, learn and grow*", this is my way of life.</p>
+<p align="center">"<em>"Be the best you can be, learn and grow</em>", this is my way of life.</p>
 
 <p align="center"> I have more than 10 years of working experience in companies like TisTech, Inatel (National Institute of Telecomunications of Brasil), CNTI (National Center of Information Technologies of Angola), using technologies like Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on. <br> </p>
 
@@ -7,7 +7,7 @@ I am graduated in Software Enginnering, I have a master degree in telecomunicati
 1 - Modeling and Analysis of 5G Full Duplex Wireless Radios. https://www.iaria.org/conferences2018/awardsICN18/icn2018_a1.pdf <br>
 2 - Performance Analysis of Full Duplex Wireless Multi-hop Networks. https://link.springer.com/chapter/10.1007/978-3-030-25748-4_30
 
-I also have some certifications: <br>
+Certifications: <br>
 1 - PSPO1: Professional Scrum Product Owner 1, By Scrum.org https://www.scrum.org/certificates/696924 <br>
 2 - PSM1: Professional Scrum Master 1, By Scrum.org https://www.scrum.org/certificates/674254 <br>
 3 - OCA-JP7: Oracle Certified Associate Java SE 7 Programmer. <br>
