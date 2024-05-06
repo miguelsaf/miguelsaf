@@ -1,8 +1,8 @@
 ## Welcome, I am Miguel Francisco 👋
 "Be the best you can be, learn and grow", this is my way of life.
 
-I am graduated in Software Enginnering, I have a master degree in telecomunications which resulted in the publication of two scientific papers:
-1 - Modeling and Analysis of 5G Full Duplex Wireless Radios. https://www.iaria.org/conferences2018/awardsICN18/icn2018_a1.pdf
+I am graduated in Software Enginnering, I have a master degree in telecomunications which resulted in the publication of two scientific papers:<br>
+1 - Modeling and Analysis of 5G Full Duplex Wireless Radios. https://www.iaria.org/conferences2018/awardsICN18/icn2018_a1.pdf <br>
 2 - Performance Analysis of Full Duplex Wireless Multi-hop Networks. https://link.springer.com/chapter/10.1007/978-3-030-25748-4_30
 
 I have some certifications and courses to improve my skills (PSPO1, PSM1, OCA-JP7, CCNA, CTFL ...), I like to learn and be among the best of my field, in the present moment 2023 I have more than 10 years of working experience in the field of software development in companies like TisTech, Inatel (National Institute of Telecomunications of Brasil), CNTI (National Center of Information Technologies of Angola), using technologies Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on.
