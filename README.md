@@ -3,7 +3,7 @@
 
 <p align="center"> I have more than ten years of working experience in companies like TisTech, Inatel (National Institute of Telecommunications of Brazil), and CNTI (National Center of Information Technologies of Angola), using technologies like Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on. <br> </p>
 
-I am graduated in Software Enginnering, I have a master degree in telecomunications which resulted in the publication of two scientific papers:<br>
+I graduated in Software Engineering, and I have a master's degree in telecommunications, which resulted in the publication of two scientific papers:<br>
 1 - Modeling and Analysis of 5G Full Duplex Wireless Radios. https://www.iaria.org/conferences2018/awardsICN18/icn2018_a1.pdf <br>
 2 - Performance Analysis of Full Duplex Wireless Multi-hop Networks. https://link.springer.com/chapter/10.1007/978-3-030-25748-4_30
 
@@ -13,10 +13,9 @@ Certifications: <br>
 3 - OCA-JP7: Oracle Certified Associate Java SE 7 Programmer. <br>
 4 - CCNA: Cisco Certified Network Associate. <br>
 
-I also have a list of courses done in **Coursera** https://www.coursera.org/, **Cesar** https://cesar.school/ and other places, all this serving the purpose of "learn and grow".<br>
-Currently (2024) I am doing a backend bootcamp with BloomTech, and learning a lot of new things like:
+I am currently (2024) doing a backend boot camp with BloomTech and learning a lot of new things like:
 - AWS Lambda.
 - AWS DynamoDB.
 - AWS API Gateway, Swagger, RapiDoc.
-- Depende Injection, Dagger, Spring.
+- Dependence Injection, Dagger, Spring.
 - Tests, Junit, Mock.
