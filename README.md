@@ -1,5 +1,10 @@
-## Welcome, I am Miguel Sílvio André Francisco 👋
-Since 2002 I am in the field of techologies studying and working, my high school course was Informatic Technician, my bachelors degree was in Software Enginnering, my master degree was in telecomunications, I did some certifications and courses to improve my skills (PSPO1, PSM1, OCA-JP7, CCNA, CTFL ...), I like to learn and be among the best of my field, in the present moment 2023 I have more than 10 years of working experience in the field of software development in companies like TisTech, Inatel (National Institute of Telecomunications of Brasil), CNTI (National Center of Information Technologies of Angola), using technologies Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on.
+## Welcome, I am Miguel Francisco 👋
+"Be the best you can be, learn and grow", this is my way of life.
+I am graduated in Software Enginnering, I have a master degree in telecomunications which resulted in the publication of two scientific papers:
+1 - Modeling and Analysis of 5G Full Duplex Wireless Radios. https://www.iaria.org/conferences2018/awardsICN18/icn2018_a1.pdf
+2 - Performance Analysis of Full Duplex Wireless Multi-hop Networks. https://link.springer.com/chapter/10.1007/978-3-030-25748-4_30
+
+I have some certifications and courses to improve my skills (PSPO1, PSM1, OCA-JP7, CCNA, CTFL ...), I like to learn and be among the best of my field, in the present moment 2023 I have more than 10 years of working experience in the field of software development in companies like TisTech, Inatel (National Institute of Telecomunications of Brasil), CNTI (National Center of Information Technologies of Angola), using technologies Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on.
 
 ###My main focus right now is to improme my backend development skill and be really good at that, this is why I am doing the backend bootcamp with BloomTech.
 #####AWS
