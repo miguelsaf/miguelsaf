@@ -1,5 +1,6 @@
 ## Welcome, I am Miguel Francisco 👋
 "Be the best you can be, learn and grow", this is my way of life.
+
 I am graduated in Software Enginnering, I have a master degree in telecomunications which resulted in the publication of two scientific papers:
 1 - Modeling and Analysis of 5G Full Duplex Wireless Radios. https://www.iaria.org/conferences2018/awardsICN18/icn2018_a1.pdf
 2 - Performance Analysis of Full Duplex Wireless Multi-hop Networks. https://link.springer.com/chapter/10.1007/978-3-030-25748-4_30
