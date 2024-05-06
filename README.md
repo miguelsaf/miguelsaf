@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome, I am Miguel Francisco 👋 </h2>
-<p align="center">"Be the best you can be, learn and grow", this is my way of life.</p>
+<p align="center">"*Be the best you can be, learn and grow*", this is my way of life.</p>
 
 <p align="center"> I have more than 10 years of working experience in companies like TisTech, Inatel (National Institute of Telecomunications of Brasil), CNTI (National Center of Information Technologies of Angola), using technologies like Java, Javascript, React, Node.js, C, C#, Python, MatLab, Git, Jira, HTML, CSS and so on. <br> </p>
 
@@ -13,7 +13,7 @@ I also have some certifications: <br>
 3 - OCA-JP7: Oracle Certified Associate Java SE 7 Programmer. <br>
 4 - CCNA: Cisco Certified Network Associate. <br>
 
-I also have list of courses done in **Coursera** https://www.coursera.org/, **Cesar** https://cesar.school/ and other places, all this serving the purpose of "learn and grow".<br>
+I also have a list of courses done in **Coursera** https://www.coursera.org/, **Cesar** https://cesar.school/ and other places, all this serving the purpose of "learn and grow".<br>
 Currently (2024) I am doing a backend bootcamp with BloomTech, and learning a lot of new things like:
 - AWS Lambda.
 - AWS DynamoDB.
