@@ -19,3 +19,5 @@ I am currently (2024) doing a backend boot camp with BloomTech and learning a lo
 - AWS API Gateway, Swagger, RapiDoc.
 - Dependence Injection, Dagger, Spring.
 - Tests, Junit, Mock.
+
+Let's connect and grow together.
